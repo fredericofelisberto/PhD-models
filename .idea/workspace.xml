@@ -153,7 +153,7 @@
       <workItem from="1602334791750" duration="53000" />
       <workItem from="1602334874892" duration="604000" />
       <workItem from="1602335633248" duration="3000" />
-      <workItem from="1602335639905" duration="13758000" />
+      <workItem from="1602335639905" duration="14074000" />
     </task>
     <task id="LOCAL-00001" summary="neu structure">
       <created>1602376947481</created>
@@ -162,7 +162,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602376947482</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="neu structure">
+      <created>1602377040227</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602377040227</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore">
+      <created>1602377277451</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602377277451</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,7 +196,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="neu structure" />
-    <option name="LAST_COMMIT_MESSAGE" value="neu structure" />
+    <MESSAGE value="gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore" />
   </component>
   <component name="WindowStateProjectService">
     <state x="41" y="23" width="1024" height="823" key="#Project_Structure" timestamp="1602335657823">
