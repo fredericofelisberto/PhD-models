@@ -1,3 +1,11 @@
-Audio;Changana;Portugues;Gender;AgeRange;
-aud_001.wav;Auxene makweru. Ho yine?;Bom dia meu irmao como esta?;Female;1
-aud_002.wav;Mina n kwatsi wena khe?;Eu estou bem e tu como estas?;Male;2
+Audio,Changana,Portugues,Gender
+aud_001.wav,Auxene makweru. Ho yine?,Bom dia meu irmao como esta?,Female
+aud_002.wav,Mina n kwatsi wena khe?,Eu estou bem e tu como estas?,Male
+aud_003.wav,Auxene makweru. Ho yine?,Bom dia meu irmao como esta?,Female
+aud_004.wav,Mina n kwatsi wena khe?,Eu estou bem e tu como estas?,Male
+aud_005.wav,Auxene makweru. Ho yine?,Bom dia meu irmao como esta?,Female
+aud_006.wav,Mina n kwatsi wena khe?,Eu estou bem e tu como estas?,Male
+aud_007.wav,Auxene makweru. Ho yine?,Bom dia meu irmao como esta?,Female
+aud_008.wav,Mina n kwatsi wena khe?,Eu estou bem e tu como estas?,Male
+aud_009.wav,Auxene makweru. Ho yine?,Bom dia meu irmao como esta?,Female
+aud_010.wav,Mina n kwatsi wena khe?,Eu estou bem e tu como estas?,Male

@@ -1,39 +1,33 @@
 import matplotlib.pyplot as plt
 
 
-def signal(signal_):
-    fig, axes = plt.subplots(ncols=3, sharex=False,
-                             sharey=True, figsize=(20, 5))
-    fig.suptitle('Time Series', size=16)
-    i = 0
-    for y in range(3):
-        axes[y].set_title(list(signal_.keys())[i])
-        axes[y].plot(list(signal_.values())[i])
-        axes[y].get_xaxis().set_visible(False)
-        axes[y].get_yaxis().set_visible(False)
-        i += 1
-    plt.savefig('plots/signals.png')
+def signal_plt(signal_, title):
+    fig, ax = plt.subplots(nrows=1, ncols=2, figsize=(20,5))
+    fig.suptitle(title, size=16)
+    for x in range(2):
+        ax[x].set_title(list(signal_.keys())[x])
+        ax[x].plot(list(signal_.values())[x])
+        ax[x].get_xaxis().set_visible(False)
+        ax[x].get_yaxis().set_visible(False)
+    # plt.savefig('plots/signals.png')
+    plt.show()
 
 
-def fft(fft_):
-    fig, axes = plt.subplots(ncols=3, sharex=False,
-                             sharey=True, figsize=(20, 5))
-    fig.suptitle('Fourier Transforms', size=16)
-    i = 0
-    for y in range(3):
-        data = list(fft_.values())[i]
+def fft_plt(fft_):
+    fig, ax = plt.subplots(nrows=1, ncols=2, figsize=(20,5))
+    fig.suptitle('fft', size=16)
+    for x in range(2):
+        data = list(fft_.values())[x]
         Y, freq = data[0], data[1]
-        axes[y].set_title(list(fft_.keys())[i])
-        axes[y].plot(freq, Y)
-        axes[y].get_xaxis().set_visible(False)
-        axes[y].get_yaxis().set_visible(False)
-        i += 1
-    plt.savefig('plots/fft.png')
+        ax[x].set_title(list(fft_.keys())[x])
+        ax[x].plot(freq, Y)
+        ax[x].get_xaxis().set_visible(False)
+        ax[x].get_yaxis().set_visible(False)
+    plt.show()
 
 
-def mFccs_fBanks(data, title, name):
-    fig, axes = plt.subplots(ncols=3, sharex=False,
-                             sharey=True, figsize=(20, 5))
+def mFccs_fBanks_plt(data, title, name):
+    fig, axes = plt.subplots(ncols=3, figsize=(20, 5))
     fig.suptitle(title, size=16)
     i = 0
     for y in range(3):
@@ -43,10 +37,11 @@ def mFccs_fBanks(data, title, name):
         axes[y].get_xaxis().set_visible(False)
         axes[y].get_yaxis().set_visible(False)
         i += 1
-    plt.savefig('plots/' + name + '.png')
+    # plt.savefig('plots/' + name + '.png')
+    plt.show()
 
 
-def distribution(cd):
+def distribution_plt(cd):
     print(cd)
     fig, x_axis = plt.subplots()
     x_axis.set_title('Class distribution', y=1)

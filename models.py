@@ -1,19 +1,30 @@
 import numpy as np
-from data import read
+from keras.layers import LSTM, Flatten, Dropout, Dense, TimeDistributed
+from keras.models import Sequential
+from sklearn.utils.class_weight import compute_class_weight
 
 
-class RNN:
-    def __init__(self, df,  n_filt=26, n_feat=13, n_fft=512, rate=16000, threshold=0.005):
+def RNN(input_shape):
+    model = Sequential()
+    model.add(LSTM(128, return_sequences=True, input_shape=input_shape))
+    model.add(LSTM(128, return_sequences=True))
+    model.add(Dropout(0.5))
+    model.add(TimeDistributed(Dense(32, activation='relu')))
+    model.add(TimeDistributed(Dense(16, activation='relu')))
+    model.add(TimeDistributed(Dense(8, activation='relu')))
+    model.add(Flatten())
+    model.add(Dense(10, activation='softmax'))
+    model.add(Flatten())
+    model.summary()
+    model.compile(loss='categorical_crossentropy', optimizer='adam', metrics=['acc'])
+    return model
 
-        self.df = df
-        self.nfilt = n_filt
-        self.nfeat = n_feat
-        self.nfft = n_fft
-        self.rate = rate
-        self.threshold = threshold
-        self.classes = list(np.unique(df.Gender))
-        self.class_dist = df.groupby(['Gender'])['length'].mean()
-        self.n_samples = 2 * int(df['length'].sum() / 0.1)  # 10 seconds
-        self.prob_dist = self.class_dist / self.class_dist.sum()
-        self.choices = np.random.choice(self.class_dist.index, p=self.class_dist / self.class_dist.sum())
-        self.step = int(rate / 10)
+
+def compute_weight(y):
+    y_flat = np.argmax(y, axis=1)
+    weight = compute_class_weight('balanced', np.unique(y_flat), y_flat)
+    return weight
+
+
+def fit(model, X, y, epochs):
+    model.fit(X, y, epochs, verbose=1, class_weight=compute_weight(y))
