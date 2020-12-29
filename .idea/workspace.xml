@@ -1,0 +1,732 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:dependabot" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:pip" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:Speech-Recognition" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="708889e3-f0ac-43aa-bb10-c575f5717520" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/data/eng/00155.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00156.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00157.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00158.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00159.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00160.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00161.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00162.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00163.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00164.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00165.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00166.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00167.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00168.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00169.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00170.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00171.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00172.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00173.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00174.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00175.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00176.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00177.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00178.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00179.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00180.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00181.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00182.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00183.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00184.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00185.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00186.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00187.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00188.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00189.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00190.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00191.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00192.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00193.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00194.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00195.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00196.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00197.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00198.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00199.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00200.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00312.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00313.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00314.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00315.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00316.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00317.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00318.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00319.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00320.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00321.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00322.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00323.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00324.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00325.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00326.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00327.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00328.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00329.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00330.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00331.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00332.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00333.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00334.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00335.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00336.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00337.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00338.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00339.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00340.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00341.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00342.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00343.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00344.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00345.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00346.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00347.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00348.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00349.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00350.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00351.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00352.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00353.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00354.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00355.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00356.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00357.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00358.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/eng/00359.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_003.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_004.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_005.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_006.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_007.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_008.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_009.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_010.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_011.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_012.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_013.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_014.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_015.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_016.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_017.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_018.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_019.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_020.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_021.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_022.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_023.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_024.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_025.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_026.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_027.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_028.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_029.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_030.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_031.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_032.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_033.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_034.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_035.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_036.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_037.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_038.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_039.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_040.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_041.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_042.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_043.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_044.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_045.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_046.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_047.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_048.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_049.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_050.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_051.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_052.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_053.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_054.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_055.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_056.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_057.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_058.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_059.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_060.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_061.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_062.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_063.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_064.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_065.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_066.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_067.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_068.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_069.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_070.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fileUncleaned/paiaze (online-audio-converter.com).wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/label_cnh.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/label_eng.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plot_spec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/tm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/plots/tmenv.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/_distutils_hack/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/_distutils_hack/override.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/distutils-precedence.pth" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-20.3.3.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-20.3.3.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-20.3.3.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-20.3.3.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-20.3.3.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-20.3.3.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-20.3.3.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip/_internal/network/lazy_wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip/_internal/resolution/resolvelib/reporter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip/_internal/utils/datetime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip/_internal/utils/parallel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip/_vendor/resolvelib/compat/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip/_vendor/resolvelib/compat/collections_abc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip/_vendor/urllib3/_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip/_vendor/urllib3/util/proxy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip/_vendor/urllib3/util/ssltransport.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/_typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/_vendor/packaging/tags.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/_vendor/vendored.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/api_tests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/data/my-test-package-source/setup.cfg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/data/my-test-package-source/setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/PKG-INFO" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/SOURCES.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/data/my-test-package_unpacked-egg/my_test_package-1.0-py3.7.egg/EGG-INFO/zip-safe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/data/my-test-package_zipped-egg/my_test_package-1.0-py3.7.egg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/test_find_distributions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/test_markers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/test_pkg_resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/test_resources.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pkg_resources/tests/test_working_set.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools-51.1.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools-51.1.1.dist-info/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools-51.1.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools-51.1.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools-51.1.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools-51.1.1.dist-info/dependency_links.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools-51.1.1.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools-51.1.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/_msvccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/archive_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/bcppcompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/ccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/bdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/bdist_dumb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/bdist_msi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/bdist_rpm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/bdist_wininst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/build_clib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/build_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/build_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/build_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/clean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/install_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/install_egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/install_headers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/install_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/install_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/py37compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/sdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/wininst-10.0-amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/wininst-10.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/wininst-14.0-amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/wininst-14.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/wininst-6.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/wininst-7.1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/wininst-8.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/wininst-9.0-amd64.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/command/wininst-9.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/cygwinccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/debug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/dep_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/dir_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/errors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/fancy_getopt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/file_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/filelist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/msvc9compiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/msvccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/py35compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/py38compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/spawn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/py35compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/py38compat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_archive_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_bdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_bdist_dumb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_bdist_msi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_bdist_rpm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_bdist_wininst.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_build_clib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_build_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_build_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_build_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_clean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_config_cmd.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_core.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_cygwinccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_dep_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_dir_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_extension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_file_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_filelist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_install_data.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_install_headers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_install_lib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_install_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_msvc9compiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_msvccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_sdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_spawn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_sysconfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_text_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_unixccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/tests/test_versionpredicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/text_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/unixccompiler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_distutils/versionpredicate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_vendor/packaging/_typing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/_vendor/vendored.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/contexts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/files.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/fixtures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/indexes/test_links_priority/external.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/indexes/test_links_priority/simple/foobar/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/mod_with_constant.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/namespaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/script-with-bom.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_archive_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_bdist_deprecations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_bdist_egg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_build_clib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_build_ext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_build_meta.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_build_py.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_dep_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_depends.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_develop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_dist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_dist_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_distutils_adoption.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_easy_install.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_egg_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_extern.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_find_packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_glob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_install_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_integration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_manifest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_msvc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_msvc14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_namespaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_packageindex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_sandbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_sdist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_setopt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_setuptools.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_unicode_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_upload_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_virtualenv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_wheel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/test_windows_wrappers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/text.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/setuptools/tests/textwrap.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/file/aud_001.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_001.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/file/aud_002.wav" beforeDir="false" afterPath="$PROJECT_DIR$/data/fileUncleaned/aud_002.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/label.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models___.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/plots.py" beforeDir="false" afterPath="$PROJECT_DIR$/plots.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/preProcessing.py" beforeDir="false" afterPath="$PROJECT_DIR$/pre_processing.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="33f5dcd7-55ef-4c28-9851-79a76a9574b6" />
+  <component name="ProjectId" id="1ivPmyVfQ4yjDBeFLjHLqWGSJod" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/data/eng" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data/eng" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data/fileClean" />
+      <recent name="$PROJECT_DIR$/data/file" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data/eng" />
+      <recent name="$PROJECT_DIR$/data/cng" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="PhD-models" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="PhD-models" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$PROJECT_DIR$/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="Gender rnn mfcc cnh" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="708889e3-f0ac-43aa-bb10-c575f5717520" name="Default Changelist" comment="" />
+      <created>1602785254446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602785254446</updated>
+      <workItem from="1602785255579" duration="11373000" />
+      <workItem from="1602833427782" duration="1656000" />
+      <workItem from="1603141227486" duration="2131000" />
+      <workItem from="1603213001216" duration="10823000" />
+      <workItem from="1603458153320" duration="750000" />
+      <workItem from="1603996889168" duration="243000" />
+      <workItem from="1604236147062" duration="9732000" />
+      <workItem from="1605494684268" duration="2283000" />
+      <workItem from="1605817714587" duration="675000" />
+      <workItem from="1606859847337" duration="379000" />
+      <workItem from="1606860232759" duration="1840000" />
+      <workItem from="1607027865891" duration="2071000" />
+      <workItem from="1607036443805" duration="29000" />
+      <workItem from="1607046070783" duration="729000" />
+      <workItem from="1607055653787" duration="1390000" />
+      <workItem from="1607561448898" duration="730000" />
+      <workItem from="1607562233251" duration="10197000" />
+      <workItem from="1607919835006" duration="918000" />
+      <workItem from="1608480399951" duration="785000" />
+      <workItem from="1608481211282" duration="651000" />
+      <workItem from="1608481890054" duration="97000" />
+      <workItem from="1608482059597" duration="43000" />
+      <workItem from="1608482121538" duration="28000" />
+      <workItem from="1608482163603" duration="922000" />
+      <workItem from="1608483421511" duration="243000" />
+      <workItem from="1608483898413" duration="735000" />
+      <workItem from="1608484671623" duration="751000" />
+      <workItem from="1608485500703" duration="2644000" />
+      <workItem from="1608488160495" duration="750000" />
+      <workItem from="1608491839611" duration="643000" />
+      <workItem from="1608492652260" duration="10000" />
+      <workItem from="1608492664707" duration="1338000" />
+      <workItem from="1608494373198" duration="141000" />
+      <workItem from="1608494539134" duration="10382000" />
+      <workItem from="1608515352441" duration="1624000" />
+      <workItem from="1608517074029" duration="6337000" />
+      <workItem from="1609024416101" duration="20000" />
+      <workItem from="1609089969518" duration="8370000" />
+      <workItem from="1609158207395" duration="525000" />
+      <workItem from="1609188082851" duration="7398000" />
+      <workItem from="1609195599892" duration="940000" />
+      <workItem from="1609196553921" duration="11818000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="208" y="25" width="1024" height="817" key="#Project_Structure" timestamp="1608494663764">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="208" y="23" width="1024" height="823" key="#Project_Structure/0.23.1440.823@0.23.1440.823" timestamp="1602785276289" />
+    <state x="208" y="25" key="#Project_Structure/0.25.1440.815@0.25.1440.815" timestamp="1608492223734" />
+    <state x="208" y="25" width="1024" height="817" key="#Project_Structure/0.25.1440.817@0.25.1440.817" timestamp="1608494505041" />
+    <state x="208" y="25" key="#Project_Structure/0.25.1440.818@0.25.1440.818" timestamp="1608494663764" />
+    <state x="323" y="86" width="1071" height="754" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1609248001930">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="323" y="158" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.823@0.23.1440.823" timestamp="1604327721137" />
+    <state x="323" y="86" width="1071" height="754" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.815@0.25.1440.815" timestamp="1609248001930" />
+    <state x="323" y="38" width="1071" height="804" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.817@0.25.1440.817" timestamp="1608494428574" />
+    <state x="428" y="256" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609243045848">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="428" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.823@0.23.1440.823" timestamp="1604268199941" />
+    <state x="428" y="256" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.815@0.25.1440.815" timestamp="1609243045848" />
+    <state x="747" y="402" width="666" height="395" key="#xdebugger.evaluate" timestamp="1609246646275">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="759" y="239" key="#xdebugger.evaluate/0.23.1440.823@0.23.1440.823" timestamp="1602796994635" />
+    <state x="747" y="402" width="666" height="395" key="#xdebugger.evaluate/0.25.1440.815@0.25.1440.815" timestamp="1609246646275" />
+    <state width="1038" height="462" key="DebuggerActiveHint" timestamp="1608517718019">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="611" height="466" key="DebuggerActiveHint/0.23.1440.823@0.23.1440.823" timestamp="1602787368511" />
+    <state width="1038" height="462" key="DebuggerActiveHint/0.25.1440.815@0.25.1440.815" timestamp="1608517718019" />
+    <state width="1358" height="397" key="GridCell.Tab.0.bottom" timestamp="1609248015150">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1358" height="154" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1604348429276" />
+    <state width="1358" height="161" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1602848682154" />
+    <state width="1358" height="397" key="GridCell.Tab.0.bottom/0.25.1440.815@0.25.1440.815" timestamp="1609248015150" />
+    <state width="1358" height="293" key="GridCell.Tab.0.bottom/0.25.1440.817@0.25.1440.817" timestamp="1606861583597" />
+    <state width="1358" height="397" key="GridCell.Tab.0.center" timestamp="1609248015149">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1358" height="154" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1604348429275" />
+    <state width="1358" height="161" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1602848682153" />
+    <state width="1358" height="397" key="GridCell.Tab.0.center/0.25.1440.815@0.25.1440.815" timestamp="1609248015149" />
+    <state width="1358" height="293" key="GridCell.Tab.0.center/0.25.1440.817@0.25.1440.817" timestamp="1606861583597" />
+    <state width="1358" height="397" key="GridCell.Tab.0.left" timestamp="1609248015149">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1358" height="154" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1604348429275" />
+    <state width="1358" height="161" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1602848682153" />
+    <state width="1358" height="397" key="GridCell.Tab.0.left/0.25.1440.815@0.25.1440.815" timestamp="1609248015149" />
+    <state width="1358" height="293" key="GridCell.Tab.0.left/0.25.1440.817@0.25.1440.817" timestamp="1606861583596" />
+    <state width="1358" height="397" key="GridCell.Tab.0.right" timestamp="1609248015150">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1358" height="154" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1604348429276" />
+    <state width="1358" height="161" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1602848682153" />
+    <state width="1358" height="397" key="GridCell.Tab.0.right/0.25.1440.815@0.25.1440.815" timestamp="1609248015150" />
+    <state width="1358" height="293" key="GridCell.Tab.0.right/0.25.1440.817@0.25.1440.817" timestamp="1606861583597" />
+    <state width="1358" height="315" key="GridCell.Tab.1.bottom" timestamp="1609246887025">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1358" height="296" key="GridCell.Tab.1.bottom/0.23.1440.823@0.23.1440.823" timestamp="1603411735914" />
+    <state width="1358" height="315" key="GridCell.Tab.1.bottom/0.25.1440.815@0.25.1440.815" timestamp="1609246887025" />
+    <state width="1358" height="293" key="GridCell.Tab.1.bottom/0.25.1440.817@0.25.1440.817" timestamp="1606861583598" />
+    <state width="1358" height="315" key="GridCell.Tab.1.center" timestamp="1609246887025">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1358" height="296" key="GridCell.Tab.1.center/0.23.1440.823@0.23.1440.823" timestamp="1603411735914" />
+    <state width="1358" height="315" key="GridCell.Tab.1.center/0.25.1440.815@0.25.1440.815" timestamp="1609246887025" />
+    <state width="1358" height="293" key="GridCell.Tab.1.center/0.25.1440.817@0.25.1440.817" timestamp="1606861583598" />
+    <state width="1358" height="315" key="GridCell.Tab.1.left" timestamp="1609246887025">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1358" height="296" key="GridCell.Tab.1.left/0.23.1440.823@0.23.1440.823" timestamp="1603411735913" />
+    <state width="1358" height="315" key="GridCell.Tab.1.left/0.25.1440.815@0.25.1440.815" timestamp="1609246887025" />
+    <state width="1358" height="293" key="GridCell.Tab.1.left/0.25.1440.817@0.25.1440.817" timestamp="1606861583597" />
+    <state width="1358" height="315" key="GridCell.Tab.1.right" timestamp="1609246887025">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="1358" height="296" key="GridCell.Tab.1.right/0.23.1440.823@0.23.1440.823" timestamp="1603411735914" />
+    <state width="1358" height="315" key="GridCell.Tab.1.right/0.25.1440.815@0.25.1440.815" timestamp="1609246887025" />
+    <state width="1358" height="293" key="GridCell.Tab.1.right/0.25.1440.817@0.25.1440.817" timestamp="1606861583598" />
+    <state x="506" y="153" key="RollbackChangesDialog" timestamp="1609092592399">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="506" y="153" key="RollbackChangesDialog/0.25.1440.815@0.25.1440.815" timestamp="1609092592399" />
+    <state x="228" y="25" width="1024" height="817" key="SettingsEditor" timestamp="1609247990673">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state x="228" y="25" key="SettingsEditor/0.25.1440.815@0.25.1440.815" timestamp="1609247990673" />
+    <state x="228" y="25" width="1024" height="817" key="SettingsEditor/0.25.1440.817@0.25.1440.817" timestamp="1608494404224" />
+    <state width="700" height="389" key="XDebugger.FullValuePopup" timestamp="1609196836618">
+      <screen x="0" y="25" width="1440" height="815" />
+    </state>
+    <state width="700" height="392" key="XDebugger.FullValuePopup/0.23.1440.823@0.23.1440.823" timestamp="1602785909183" />
+    <state width="700" height="389" key="XDebugger.FullValuePopup/0.25.1440.815@0.25.1440.815" timestamp="1609196836618" />
+    <state x="436" y="79" width="732" height="735" key="find.popup" timestamp="1609094857282">
+      <screen x="0" y="25" width="1440" height="818" />
+    </state>
+    <state x="436" y="79" width="732" height="735" key="find.popup/0.25.1440.818@0.25.1440.818" timestamp="1609094857282" />
+    <state x="465" y="218" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1608492606176">
+      <screen x="0" y="25" width="1440" height="817" />
+    </state>
+    <state x="465" y="353" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.25.1440.815@0.25.1440.815" timestamp="1608485440997" />
+    <state x="465" y="218" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.25.1440.817@0.25.1440.817" timestamp="1608492606176" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/pre_processing.py</url>
+          <line>111</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PhD_models$main.coverage" NAME="main Coverage Results" MODIFIED="1609248015139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PhD_models$plotSpec.coverage" NAME="plotSpec Coverage Results" MODIFIED="1606861552147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
