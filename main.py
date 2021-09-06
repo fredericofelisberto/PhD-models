@@ -6,7 +6,6 @@ from models import RNN, CONV
 import numpy as np
 from sklearn.utils.class_weight import compute_class_weight
 import matplotlib.pyplot as plt
-import torch
 
 
 def main():
@@ -14,7 +13,7 @@ def main():
     parse.add_argument('class_name', type=str, default='Gender',
                        help='The class name to train you model')
     parse.add_argument('model', choices=['conv', 'rnn'])
-    parse.add_argument('features', choices=['stft', 'mfcc', 'cwt'])
+    parse.add_argument('feat', choices=['stft', 'fben', 'mfcc', 'wt'])
     parse.add_argument('lng', choices=['cnh', 'eng'])
     parse.add_argument('-optimizer', choices=['sgd', 'adam'], default='adam')
     parse.add_argument('-cuda', action='store_true')
@@ -30,8 +29,6 @@ def main():
     parse.add_argument('-report', type=bool, default=False, help='Plot report')
 
     opt = parse.parse_args()
-    # device = torch.device("cuda:0" if torch.cuda.is_available() and opt.cuda else "cpu")
-    # print(device)
 
     mod = None
     path_short = "cnh/"
@@ -42,10 +39,6 @@ def main():
         path_short = "eng/"
         path_full = "data/eng/"
         csv = "label_eng.csv"
-
-    # if opt.clean:
-    #     df_ = read_data()
-    #     clean(df_, opt)
 
     df = read_data(path=path_short, csv=csv)
     x, y = build_features(df, opt=opt, path=path_full)
@@ -65,7 +58,6 @@ def main():
     elif opt.model == 'conv':
         mod = CONV(input_shape, opt.optimizer)
 
-    # if "cuda" in mod.device.type: torch.cuda.empty_cache()
     history = mod.fit(x, y, validation_split=0.50, batch_size=4, epochs=opt.epochs, class_weight=class_weight)
 
     plt.plot(history.history['loss'])

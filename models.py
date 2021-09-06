@@ -1,4 +1,4 @@
-from tensorflow.keras.layers import LSTM, Flatten, Dropout, Dense, TimeDistributed, Conv2D, MaxPool2D
+from keras.layers import LSTM, Flatten, Dropout, Dense, TimeDistributed, Conv2D, MaxPool2D
 from keras.models import Sequential
 
 
@@ -21,7 +21,6 @@ def RNN(input_shape, optimizer):
 def CONV(input_shape, optimizer):
     model = Sequential()
     model.add(Conv2D(16, (3, 3), activation='relu', strides=(1, 1), padding='same', input_shape=input_shape))
-
     model.add(Conv2D(32, (3, 3), activation='relu', strides=(1, 1), padding='same'))
     model.add(Conv2D(64, (3, 3), activation='relu', strides=(1, 1), padding='same'))
     model.add(Conv2D(128, (3, 3), activation='relu', strides=(1, 1), padding='same'))
